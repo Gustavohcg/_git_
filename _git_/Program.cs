@@ -5,6 +5,7 @@ namespace _git_ {
         static void Main(string[] args) {
             Console.WriteLine("TESTE GIT");
             Console.WriteLine("TESTE GIT 2");
+            Console.WriteLine("TESTE GIT 3");
         }
     }
 }
